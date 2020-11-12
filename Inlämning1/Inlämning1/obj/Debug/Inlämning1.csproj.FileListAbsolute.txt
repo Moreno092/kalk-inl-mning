@@ -1,0 +1,7 @@
+C:\Users\Felip\source\repos\Inlämning1\Inlämning1\bin\Debug\Inlämning1.exe.config
+C:\Users\Felip\source\repos\Inlämning1\Inlämning1\bin\Debug\Inlämning1.exe
+C:\Users\Felip\source\repos\Inlämning1\Inlämning1\bin\Debug\Inlämning1.pdb
+C:\Users\Felip\source\repos\Inlämning1\Inlämning1\obj\Debug\Inlämning1.csprojAssemblyReference.cache
+C:\Users\Felip\source\repos\Inlämning1\Inlämning1\obj\Debug\Inlämning1.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\Inlämning1\Inlämning1\obj\Debug\Inlämning1.exe
+C:\Users\Felip\source\repos\Inlämning1\Inlämning1\obj\Debug\Inlämning1.pdb
